@@ -1,9 +1,9 @@
 {
-    "name": "simple-bot",
+    "name": "Pruebas | iBanned_x",
     "version": "1.0.0",
-    "description": "This is a simple test and experiment bot",
+    "description": "Estoy haciendo pruebas",
     "main": "trial-bot.js",
-    "author": "TheNaman047",
+    "author": "iBanned_x",
     "scripts": {
         "start": "node bot.js"
     },
